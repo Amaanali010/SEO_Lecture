@@ -1,4 +1,10 @@
-Seo Keywords Analyzer App: https://huggingface.co/spaces/Amaanali01/Seo-Keywords-Analyzer
+AI APPS:
+
+SEO Keywords Analyzer App: https://huggingface.co/spaces/Amaanali01/Seo-Keywords-Analyzer
+
+SEO Helper: https://huggingface.co/spaces/Amaanali01/SEO-Helper
+
+Presentations:
 
 Intro: https://www.pi.inc/docs/430107283243919?share_token=T36WT6JNYK3CE
 
