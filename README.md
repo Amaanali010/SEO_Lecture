@@ -12,4 +12,8 @@ What is On-Page SEO (Deep Understanding): https://www.pi.inc/docs/43131519739538
 
 What is Off-Page SEO: https://www.pi.inc/docs/431330591791418?share_token=5O6M4DFMXK7KA
 
+What is Technical SEO: https://www.pi.inc/docs/431332412466798?share_token=DFK5U7ZMDI6CQ
+
+
+
 
