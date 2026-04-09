@@ -4,6 +4,8 @@ SEO Keywords Analyzer App: https://huggingface.co/spaces/Amaanali01/Seo-Keywords
 
 SEO Helper: https://huggingface.co/spaces/Amaanali01/SEO-Helper
 
+Website Speed Testing: https://huggingface.co/spaces/Amaanali01/Website-Speed-Testing-Tool
+
 Presentations:
 
 Intro: https://www.pi.inc/docs/430107283243919?share_token=T36WT6JNYK3CE
